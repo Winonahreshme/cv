@@ -1,0 +1,33 @@
+body{
+    background-color:#F6E5E9
+     }
+      h2
+      {color: #4A1C40;}
+
+
+body{
+  margin: 0;
+  font-family:serif;
+}
+
+
+
+.circleborder {
+    border:5px solid #E798AE;
+    border-radius: 100%;
+    display: inline-block;
+      margin:15px 15px 15px 15px;
+
+              }
+              tr, td {
+                  padding: 10px;
+              }
+    img {
+        width:200px;
+        height:200px;
+        }
+.heading {align-content:center;}
+.contacted {align-content:center;}
+  p {margin:30px 30px 30px 30px;}
+table{margin:30px 30px 30px 30px;}
+h2{margin:15px 15px 15px 15px;}
